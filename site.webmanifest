@@ -1,0 +1,18 @@
+{
+  "name": "KanjiQuest - 일본어 한자 학습",
+  "short_name": "KanjiQuest",
+  "description": "한국인 학습자를 위한 게임형 일본어 한자 학습 웹 앱 (JLPT N5~N1)",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F9FA",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
